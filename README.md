@@ -1,7 +1,18 @@
 # whoami
-about me
 
-# Work
+## Me as a Person
 
-[LinkedIn](https://www.linkedin.com/in/benjamineastmond/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BmWQ9PHKHSCyAcEU5acpKVQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-identity_welcome_message)
+I live in Denver with my family and 2 dogs.
+I enjoy downhill skiing, technology advancements, and geeking out with FIRST and just for fun.
+
+# Me at Work
+
+I love developing peoples abilities to deliver code faster, cleaner, and having great time while doing it.
+I enjoy building strong collaborative teams, hands-on-keyboard or off.
+
+I strive for symmathesy - check it out -> (https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/).
+
+Interested in more of my background - Here I am on LinkedIn:
+
+[Linked In] (https://www.linkedin.com/in/benjamineastmond)
 
