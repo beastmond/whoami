@@ -6,7 +6,7 @@ https://github.com/beastmond/whoami/blob/master/README.md
 I live in Denver with my family and 2 dogs.
 I enjoy downhill skiing, technology advancements, and geeking out with FIRST and just for fun.
 
-## Profession
+## Professionally
 
 I love software development - almost all of it - and the parts I don't I work to improve.
 
