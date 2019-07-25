@@ -10,9 +10,7 @@ I enjoy downhill skiing, technology advancements, and geeking out with FIRST and
 I love developing peoples abilities to deliver code faster, cleaner, and having great time while doing it.
 I enjoy building strong collaborative teams, hands-on-keyboard or off.
 
-I strive for symmathesy - check it out -> (https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/).
+I strive for symmathesy - check it out -> (https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/ "Symmathesy").
 
-Interested in more of my background - Here I am on LinkedIn:
-
-[Linked In] (https://www.linkedin.com/in/benjamineastmond)
+Interested in more of my background - Here I am on LinkedIn: (https://www.linkedin.com/in/benjamineastmond "LinkedIn")
 
