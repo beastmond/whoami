@@ -1,5 +1,5 @@
 # whoami
-https://github.com/beastmond/whoami/blob/master/README.md
+https://github.com/beastmond/whoami/blob/master/README.md OR http://bit.ly/BenEastmond
 
 ## Freetime
 
